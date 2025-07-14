@@ -29,17 +29,18 @@ Expected structure will look like something below:
 
 This model is fine-tuned by fruits and vegetables nutritions informations.
 
-Kaggle Links, don't have them now :>
+- [fruits.parquet](https://www.kaggle.com/datasets/fathurrahmans/fruit-nutrition)
+- [vegetables_seafood.parquet](https://www.kaggle.com/datasets/lazycoder00/-nutritionalfacts-fruit-vegetables-seafood/data)
+- [vegetables.parquet](https://www.kaggle.com/datasets/rudraprasadbhuyan/vegetables-dataset)
 
 ### dataset_2
 
 This model is fine-tuned by cooking recipes.
-
-- [Recipe NLG](https://recipenlg.cs.put.poznan.pl/dataset)
-- [all-recipes](https://huggingface.co/datasets/corbt/all-recipes)
-
+- [all-recipes_n.parquet](https://huggingface.co/datasets/corbt/all-recipes)
+- [recipe_nlg.parquet](https://recipenlg.cs.put.poznan.pl/dataset)
+  
 ### miniModel_3
 
 This model is fine-tuned by cocktail recipes.
 
-- [cocktail_recipes](https://huggingface.co/datasets/brianarbuckle/cocktail_recipes)
+- [cocktail_recipes.parquet](https://huggingface.co/datasets/brianarbuckle/cocktail_recipes)
