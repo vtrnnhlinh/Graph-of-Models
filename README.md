@@ -28,6 +28,7 @@ python datasets/csv_to_parquet.py
 
 ## Current structure
 
+```
 │   environment.yml
 │   LICENSE
 │   README.md
@@ -69,7 +70,7 @@ python datasets/csv_to_parquet.py
     │       cosine_graph.ipynb
     │
     └───jaccard_index
-
+```
 ## My blog posts
 
 The collection of posts I wrote while doing this project
