@@ -1,13 +1,5 @@
-name: Graph-of-Models
+name: GoM-KG
 channels:
   - defaults
 dependencies:
   - python=3.12
-  - pandas
-  - numpy
-  - pyarrow
-  - scikit-learn
-  - ipykernel
-  - networkx
-  - matplotlib
-  - notebook
