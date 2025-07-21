@@ -57,4 +57,4 @@ The collection of posts I wrote while doing this project
 
 ## Acknowledgements
 
-This section I express my gratitute to my mentor, Dr. [Arthur](https://github.com/Aethor) and BGSV for making this comes true.
+This section I express my gratitute to my mentor - Mr. Truong, my friend - Dr. [Arthur](https://github.com/Aethor) and BGSV for making this comes true.
